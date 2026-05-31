@@ -553,7 +553,7 @@ $ echo "The future is embedded." && sleep ∞
             `/++++/+++++++:             Font:       JetBrains Mono NF
            `/++++++++++++++:            Theme:      Catppuccin Mocha
           `/+++ooooooooooooo/`          Icons:      Papirus Dark
-         ./ooosssso++osssssso+`         CPU:        AMD Ryzen
+         ./ooosssso++osssssso+`         CPU:        Intel
         .oossssso-````/ossssss+`        RAM:        16GB
        -osssssso.      :ssssssso.       Uptime:     enough to get work done
       :osssssss/        osssso+++.      Packages:   too many
@@ -563,57 +563,6 @@ $ echo "The future is embedded." && sleep ∞
  `++:.                           `-/+/  
  .`                                 `/  
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ████████████████████████████████████████████████████████████████████████ -->
-<!--                       METRICS + STATS                                   -->
-<!-- ████████████████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-### `> systemctl status engineering`
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center">
-
-**WakaTime** *(setup required)*
-
-<!-- Add WakaTime badge after connecting account at wakatime.com -->
-[![Wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg?style=for-the-badge)](https://wakatime.com/@YOUR_WAKATIME_USER_ID)
-
-```
-# Setup: wakatime.com → API Key → install wakatime plugin
-```
-
-</td>
-<td align="center">
-
-**LeetCode** *(username needed)*
-
-<!-- Replace YOUR_LEETCODE_USERNAME below -->
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0a0a0a)
-
-```
-# Update: replace with your LeetCode profile link
-```
-
-</td>
-</tr>
-</table>
-
-<!-- Profile Summary Cards -->
-<div align="center">
-
-<!-- SETUP: Visit https://github.com/vn7n24fzkq/github-profile-summary-cards
-     and generate cards for your username, then paste links below -->
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b24es1005-debug&theme=tokyonight)](https://github.com/b24es1005-debug)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -629,7 +578,7 @@ $ echo "The future is embedded." && sleep ∞
 
 <!-- Replace links with your actual profiles -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditiya-k-209b6a2a5/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b24es1005-debug)
 [![Email](https://img.shields.io/badge/IIT_Mail-b24es1005@iitj.ac.in-00fff5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b24es1005@iitj.ac.in)
 
