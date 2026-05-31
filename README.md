@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Animated hero banner using capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0a1628,100:0d0d0d&height=220&section=header&text=b24es1005-debug&fontSize=55&fontColor=00fff5&animation=twinkling&fontAlignY=45&desc=Systems%20Engineer%20%7C%20Space%20Tech%20%7C%20Embedded%20AI&descSize=18&descAlignY=68&descColor=4fc3f7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0a1628,100:0d0d0d&height=220&section=header&text=Aaditiya&fontSize=55&fontColor=00fff5&animation=twinkling&fontAlignY=45&desc=Systems%20Engineer%20%7C%20Space%20Tech%20%7C%20Embedded%20AI&descSize=18&descAlignY=68&descColor=4fc3f7" width="100%"/>
 
 <!-- Dynamic typing animation -->
 <a href="https://git.io/typing-svg">
