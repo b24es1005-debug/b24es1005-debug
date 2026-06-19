@@ -52,9 +52,9 @@
 
 I'm an undergraduate at **IIT Jodhpur** pursuing a dual discipline in **Computer Science & Electrical Engineering** — two fields that collide beautifully at the hardware-software boundary.
 
-My work lives at the intersection of **embedded intelligence**, **wireless systems**, and **aerospace engineering**. I don't just write code — I build systems that sense, think, and act in the physical world.
+My work lives at the intersection of **embedded intelligence**, **wireless systems**, and **aerospace engineering**. I don't just write code. I build systems that sense, think, and act in the physical world.
 
-From bare-metal microcontroller firmware to AI inference at the edge, from WiFi signal fingerprinting to low-level Linux internals — I operate across the full stack of engineering complexity.
+From bare-metal microcontroller firmware to AI inference at the edge, from WiFi signal fingerprinting to low-level Linux internals. I operate across the full stack of engineering complexity.
 
 Long-term mission: **intelligent autonomous systems for aerospace and space exploration**.
 
